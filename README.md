@@ -32,8 +32,8 @@ In this code, I have taken the Langvan equation and implemented a simulation to 
 
 
 <p float="left">
-<img src="https://github.com/eurusebr/Langevin-equation/blob/main/Langevin.jpg" alt="alt text" width="450">
-<img src="https://github.com/eurusebr/Langevin-equation/blob/main/index.png" alt="alt text" width="400">
+<img src="https://github.com/eurusebr/Langevin-equation/blob/main/Langevin.jpg" alt="alt text" width="400">
+<img src="https://github.com/eurusebr/Langevin-equation/blob/main/index.png" alt="alt text" width="350">
 </p>
 
 # Refrences
