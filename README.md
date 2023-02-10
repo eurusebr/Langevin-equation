@@ -25,3 +25,18 @@ To be more precise, one considers a large number of independent and identically 
 One can then use this histogram to estimate the PDF of the particle positions and velocities. This PDF can be updated over time by considering the evolution of the particle positions and velocities in the ensemble of Langevin trajectories. By evolving the PDF in this way, one can obtain an approximation of the solution of the Fokker-Planck equation.
 
 This method of approximating the Fokker-Planck equation through many Langevin trajectories is known as the Monte Carlo method and is widely used in various fields, including physics, chemistry, and finance.
+
+# Results
+
+In this code, I have taken the Langvan equation and implemented a simulation to determine its behavior. By using this simulation, I have then approximated the Fokker-Planck equation, which provides insight into the distribution of the system's states over time. Additionally, the simulation visualizes three representative trajectories out of the total 10,000 generated, and provides the mean and variance of the average of all trajectories. These results give us an understanding of the stability and fluctuations of the system under investigation.
+
+
+<p float="left">
+<img src="https://github.com/eurusebr/Langevin-equation/blob/main/Langevin.jpg" alt="alt text" width="450">
+<img src="https://github.com/eurusebr/Langevin-equation/blob/main/index.png" alt="alt text" width="400">
+</p>
+
+# Refrences
+
+1. Göran Wahnström , "brownian dynamics lecture notes", Goteborg, December 2016:
+<a href = "http://fy.chalmers.se/~tfsgw/CompPhys/lectures/BD_LectureNotes_161206.pdf"> http://fy.chalmers.se/~tfsgw/CompPhys/lectures/BD_LectureNotes_161206.pdf </a>
